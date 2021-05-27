@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ekikart-ui/static/css/main.79754995.chunk.css",
+    "main.js": "/ekikart-ui/static/js/main.aca1bb85.chunk.js",
+    "main.js.map": "/ekikart-ui/static/js/main.aca1bb85.chunk.js.map",
+    "runtime-main.js": "/ekikart-ui/static/js/runtime-main.0377fd22.js",
+    "runtime-main.js.map": "/ekikart-ui/static/js/runtime-main.0377fd22.js.map",
+    "xlsx.js": "/ekikart-ui/static/js/xlsx.0959ce25.chunk.js",
+    "xlsx.js.map": "/ekikart-ui/static/js/xlsx.0959ce25.chunk.js.map",
+    "static/js/3.f2115582.chunk.js": "/ekikart-ui/static/js/3.f2115582.chunk.js",
+    "static/js/3.f2115582.chunk.js.map": "/ekikart-ui/static/js/3.f2115582.chunk.js.map",
+    "static/js/4.dfd98045.chunk.js": "/ekikart-ui/static/js/4.dfd98045.chunk.js",
+    "static/js/4.dfd98045.chunk.js.map": "/ekikart-ui/static/js/4.dfd98045.chunk.js.map",
+    "static/js/5.acda2e48.chunk.js": "/ekikart-ui/static/js/5.acda2e48.chunk.js",
+    "static/js/5.acda2e48.chunk.js.map": "/ekikart-ui/static/js/5.acda2e48.chunk.js.map",
+    "static/js/6.775987a1.chunk.js": "/ekikart-ui/static/js/6.775987a1.chunk.js",
+    "static/js/6.775987a1.chunk.js.map": "/ekikart-ui/static/js/6.775987a1.chunk.js.map",
+    "static/js/7.bc9bc49b.chunk.js": "/ekikart-ui/static/js/7.bc9bc49b.chunk.js",
+    "static/js/7.bc9bc49b.chunk.js.map": "/ekikart-ui/static/js/7.bc9bc49b.chunk.js.map",
+    "index.html": "/ekikart-ui/index.html",
+    "static/css/main.79754995.chunk.css.map": "/ekikart-ui/static/css/main.79754995.chunk.css.map",
+    "static/js/3.f2115582.chunk.js.LICENSE.txt": "/ekikart-ui/static/js/3.f2115582.chunk.js.LICENSE.txt",
+    "static/js/5.acda2e48.chunk.js.LICENSE.txt": "/ekikart-ui/static/js/5.acda2e48.chunk.js.LICENSE.txt",
+    "static/js/6.775987a1.chunk.js.LICENSE.txt": "/ekikart-ui/static/js/6.775987a1.chunk.js.LICENSE.txt",
+    "static/media/avtar.6db215d0.jpg": "/ekikart-ui/static/media/avtar.6db215d0.jpg",
+    "static/media/no-data.affe6e2a.png": "/ekikart-ui/static/media/no-data.affe6e2a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0377fd22.js",
+    "static/js/3.f2115582.chunk.js",
+    "static/css/main.79754995.chunk.css",
+    "static/js/main.aca1bb85.chunk.js"
+  ]
+}
