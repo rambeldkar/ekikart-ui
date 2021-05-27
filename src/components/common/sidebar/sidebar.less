@@ -1,0 +1,28 @@
+@import  "../../../assets/css/common.less";
+/*Sidebar*/
+#ekikartLayout{
+    .trigger {
+      padding: 0 14px;
+      font-size: 18px;
+      line-height: 64px;
+      cursor: pointer;
+      transition: color 0.3s;
+      &:hover{
+        color: @secondary-color;
+      }
+    }
+    .logo {
+      padding: 8px;    
+    }
+    .ant-layout-sider-collapsed{
+      .logoBig{
+        .d-none()!important;
+      }
+      .logoSmall{
+        .d-block()!important;
+      }        
+    } 
+    .logoSmall{
+      .d-none()!important;
+    }
+}

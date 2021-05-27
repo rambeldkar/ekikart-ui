@@ -1,0 +1,127 @@
+/*Common*/
+.d-none {
+  display: none;
+}
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex;
+}
+.bg-white {
+  background: #fff;
+}
+.m-0 {
+  margin: 0px;
+}
+.m-10 {
+  margin: 10px!important;
+}
+.mLR10 {
+  margin: 0px 10px;
+}
+.ml-auto {
+  margin-left: auto;
+}
+.mb-0 {
+  margin-bottom: 0px!important;
+}
+.mb-1 {
+  margin-bottom: 1rem;
+}
+.btn-mr8 {
+  margin-right: 8px;
+}
+.p-0 {
+  padding: 0px!important;
+}
+.pl-0 {
+  padding-left: 0px!important;
+}
+.pr-0 {
+  padding-right: 0px!important;
+}
+.pLR10 {
+  padding: 0px 10px;
+}
+.p-x8-y16 {
+  padding: 8px 16px;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.fs-15 {
+  font-size: 1.5rem;
+}
+.fs-2 {
+  font-size: 2rem;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.br-b-0 {
+  border-bottom: 0px;
+}
+.br-r-0 {
+  border-right: 0px;
+}
+/*Common*/
+.salessummaryTable .ant-table table tr:last-child td {
+  border-bottom: 0px;
+}
+.salessummaryTable .ant-table table tr td .ant-table-row-expand-icon {
+  display: none;
+}
+.salessummaryTable .ant-table table tr[data-row-key="grossSales"] td,
+.salessummaryTable .ant-table table tr[data-row-key="netSales"] td,
+.salessummaryTable .ant-table table tr[data-row-key="total"] td {
+  font-weight: 700;
+}
+.salessummaryTable .ant-table table tr[data-row-key="tax"] td .ant-table-row-expand-icon {
+  float: right;
+  left: -85px;
+  display: block;
+  margin-top: 3.5px;
+}
+.paymentcollectedTable .ant-table table tr div {
+  display: flex;
+}
+.paymentcollectedTable .ant-table table tr div .icon {
+  padding: 6px;
+  background-color: #30649B;
+  border-radius: 5px;
+  margin-right: 10px;
+  color: #fff;
+}
+.paymentcollectedTable .ant-table table tr div span {
+  align-items: center;
+  display: flex;
+}
+.paymentcollectedTable .ant-table table tr:last-child td {
+  border-bottom: 0px !important;
+}
+.paymentcollectedTable .ant-table table tr [data-row-key="2"]:nth-of-type(1) td,
+.paymentcollectedTable .ant-table table tr [data-row-key="2"]:nth-of-type(2) td,
+.paymentcollectedTable .ant-table table tr [data-row-key="2"]:nth-of-type(3) td,
+.paymentcollectedTable .ant-table table tr [data-row-key="2"]:nth-of-type(4) td {
+  padding: 8px 16px !important;
+}
+.paymentcollectedTable .ant-table table tr[data-row-key="totalcollected"] td,
+.paymentcollectedTable .ant-table table tr[data-row-key="nettotal"] td {
+  font-weight: 700 !important;
+}
